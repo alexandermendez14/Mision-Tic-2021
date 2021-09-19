@@ -19,11 +19,11 @@ Dado que tengo instalado la aplicación Git en la máquina local
 Cuando requiera enlazar un directorio con un repositorio en GitHub
 Entonces podré subir nuevos artefactos al repositorio en GitHub 
 
-- Se implemanta el comando gt ini y git clone en drectorios locales de los respectivos equipos.
+- Se implemanta el comando git inii y git clone en drectorios locales de los respectivos equipos.
 
 Historia de usuario: HU_004
 Dado que tengo instalado la aplicación Git en la máquina local
 Cuando requiera enlazar un directorio con un repositorio en GitHub
 Entonces podré subir artefactos actualizados al repositorio en GitHub
 
-- Se implemanta el comando gt ini y git clone en drectorios locales de los respectivos equipos y se actualizan los cambios realizados en el repositorio (push)
+- Se implemanta el comando git init y git clone en drectorios locales de los respectivos equipos y se actualizan los cambios realizados en el repositorio (push)
