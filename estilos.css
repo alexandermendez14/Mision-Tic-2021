@@ -10,27 +10,13 @@
         width: 300px;
         margin: 5 auto;
         color: #020202;
-      }
-      .padre {
-        background-color: #fafafa;
-        padding: 1rem;
-        margin-right: 15%;
-      }
-      
-      button {
-        background-color: yellow;
-        
-        /* IMPORTANTE */
-        width: 200px;
-        margin-left: 50%;
-        margin-right: 50%;
-      }
+    }
     nav, h3 {
     width: 200px;
     margin: 5 auto;
     background: darken( #27ae60, 20% );
     color: #020202;
-  }
+    }
     
 
          :hover {
