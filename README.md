@@ -16,6 +16,7 @@ Para la database se utilizó el software "xampp", donde se alojaron los datos en
 observar todos los cambios llevados a cabo, entonces se hizo uso del apache de xampp.
 
 ###Ejemplo
+
 Para la base de datos se utilizó phpmyadmin:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/c0ee09a64b7512ea0726b4e3c27c8ba07c618f13/WhatsApp%20Image%202021-09-29%20at%207.37.20%20PM.jpeg)
 Esto cumple con HU_008, donde se puede observar que es satisfactorio la consulta de los datos almacenados en phpmyadmin:
