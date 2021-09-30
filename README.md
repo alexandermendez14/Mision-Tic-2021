@@ -19,13 +19,17 @@ observar todos los cambios llevados a cabo, entonces se hizo uso del apache de x
 
 Para la base de datos se utilizó phpmyadmin:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/c0ee09a64b7512ea0726b4e3c27c8ba07c618f13/WhatsApp%20Image%202021-09-29%20at%207.37.20%20PM.jpeg)
+
 Esto cumple con HU_008, donde se puede observar que es satisfactorio la consulta de los datos almacenados en phpmyadmin:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/c0ee09a64b7512ea0726b4e3c27c8ba07c618f13/WhatsApp%20Image%202021-09-29%20at%207.36.33%20PM.jpeg)
+
 Se utilizó xampp para usar la base de datos en MYSQL en phpmyadmin y el apache para ejecutar código en php, y como podemos ver los datos alojados en esa tabla son los mismos
 que los que se muestrane en la consulta de los datos en el HU_008:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/c0ee09a64b7512ea0726b4e3c27c8ba07c618f13/WhatsApp%20Image%202021-09-29%20at%207.36.52%20PM.jpeg)
+
 Para almacenar esos datos se programó un formulario en HTML y CSS para cumplir con el HU_006:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/c0ee09a64b7512ea0726b4e3c27c8ba07c618f13/WhatsApp%20Image%202021-09-29%20at%207.36.04%20PM.jpeg)
+
 Una vez completado el registro, el programa nos avisa qaue el registro ha sido satisfactorio, cumpliendo así con HU_007:
 ![Image text] (https://github.com/JuanValenciaUnal/Mision-Tic-2021/blob/a7d870c33553fb05bebfb00fecbb331fe0e2b253/WhatsApp%20Image%202021-09-29%20at%207.31.20%20AM.jpeg)
 
